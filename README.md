@@ -48,8 +48,8 @@ Just download the `.pbix` file and open it in Power BI Desktop.
 
 ## 📸 Preview
 
-![Dashboard Preview 1](images/1.png)
-![Dashboard Preview 2](images/2.png)
+![Dashboard Preview 1](images/Cyber crime overview(page 1).jpg)
+![Dashboard Preview 2](images/Crime analysis(page 2).jpg)
 
 ## 🔗 Links
 - 📂 [Download PBIX File](CybercrimeDashboard.pbix)
