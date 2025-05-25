@@ -53,4 +53,4 @@ Just download the `.pbix` file and open it in Power BI Desktop.
 
 ## 🔗 Links
 - 📂 [Download PBIX File](CybercrimeDashboard.pbix)
-- 📰 [LinkedIn Post](https://www.linkedin.com/in/yourprofile/post-id) <!-- Replace -->
+- 📰 [LinkedIn Post]([https://www.linkedin.com/in/yourprofile/post-id](https://www.linkedin.com/posts/utsav-chatterjee741_powerbi-cybersecurity-dataanalytics-activity-7332413047208116224-3v7a?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRaL-MB5fGtV4NvUNllWmDd-LB2LbEbQRM)) 
